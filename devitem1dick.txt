@@ -4,3 +4,4 @@ dev item 2 from harry. new line 3.
 dev item 2 from dick. new line 3
 dev item 1 from dick. line 3
 dev item 3 from dick. new line 6
+dev item 1 for featureX from dick. new line 7
